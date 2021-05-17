@@ -24,6 +24,3 @@ Number_Weeks_Quit | Number of weeks quit
 Season | Season Category (1,2,3)
 Crop_Damage | Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Damage due to Pesticides)
 
-## Benefits of using Machine learning here:-
-Here, our Machine learning model shows that whether the crops are damaged or not.<br>
-If they are damaged then by which factors means that whether they are damaged by the limitless use of pesticides or other factors that can be assured by our model.
